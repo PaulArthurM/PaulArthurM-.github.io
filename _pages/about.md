@@ -25,8 +25,3 @@ social: true  # includes social icons at the bottom of the page
 I am currently completing my PhD in bioinformatics, with a focus on the analysis of single-cell time-series datasets. My research primarily involves temporally resolved lineage tracing, aiming to better understand cellular processes over time.
 
 The goal of my research is to contribute to a deeper understanding of cellular dynamics, particularly in the context of response to treatment and disease progression.
-
-### Looking for a postdoc position
-
-As I near the completion of my PhD, I am seeking postdoctoral positions that align with my expertise in single-cell data analysis. I am interested in joining a team where collaboration and the application of diverse computational methods are integral to the research approach.
-
