@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: https://paularthurm.github.io/cv/assets/pdf/resume.pdf
+permalink: assets/pdf/resume.pdf
 title: cv
 nav: true
 nav_order: 4
